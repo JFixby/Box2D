@@ -1,0 +1,5 @@
+include "box2d-api"
+include "box2d-java-double"
+include "box2d-java-float"
+include "box2d-gdx"
+include "box2d-cpp"
